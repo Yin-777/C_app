@@ -48,7 +48,7 @@ public class HomeFragment extends BaseFragment implements homeview {
         setUpState(State.LOADING);
         initview(view);
         initLinstener();
-        retrofitTab();
+        retrofitTab();  // 测试测试测试adasdasda
     }
 
     private void initLinstener() {
